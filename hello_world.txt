@@ -1,0 +1,1 @@
+Hi this is my 1st hello world text and file made from Git bash
